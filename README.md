@@ -7,15 +7,15 @@
 
 List of files:
 
-* shop.py - Cheese Shop
+* cshop.py - Cheese Shop
 
 * train.py - Training Game Features
 
 * game.py - Mini Game (w/out Art or Full Game Features)
 
-* mouse.py - Mouse Features
+* mouse.py - Mouse Generator
 
-* test.py - Testing
+* test.py - Test Mouse Generator
 
 * name.py - Name Checking (Kids Friendly Feature)
 

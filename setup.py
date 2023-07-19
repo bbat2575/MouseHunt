@@ -1,5 +1,6 @@
 '''
-Write your solution for 6. PIAT: Check Setup here.
+Check Setup - 
+Verify or Install Text Files + Log Process
 
 Author: Bassam Batch
 SID: 310229251

@@ -1,6 +1,5 @@
 '''
-Write your solution for the class Interface here.
-This is your answer for Question 8.4.
+Interface Class
 
 Author: Bassam Batch
 SID: 310229251

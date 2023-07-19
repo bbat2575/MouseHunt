@@ -4,7 +4,7 @@ We will use the art by Joan Stark as the logo:
           /      @@
 jgs `~~~~~\_;m__m._>o
 
-Answer for Question 1 - Game Title
+Game Title
 
 Name: Bassam Batch
 SID: 310229251

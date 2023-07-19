@@ -1,5 +1,5 @@
 '''
-Write solutions to 3. New Mouse Release here.
+Mouse Generator
 
 Author: Bassam Batch
 SID: 310229251

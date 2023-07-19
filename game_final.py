@@ -1,5 +1,5 @@
 '''
-Answer for Question 7 - PIAT: Improved Full Game.
+Mousehunt - The Full Game
 
 Author: Bassam Batch
 SID: 310229251
@@ -12,7 +12,7 @@ import time
 from datetime import datetime
 import os
 import name
-import q4
+import training
 import shop
 import train
 import mouse
@@ -112,7 +112,7 @@ def hunt(gold: int, cheese: list, trap_cheese: str | None, points: int, enchant:
         counter = 0
 
         while counter < 5:
-            horn_input = q4.sound_horn()
+            horn_input = training.sound_horn()
             if horn_input == "stop hunt":
                 again = "no"
                 break

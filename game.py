@@ -1,6 +1,5 @@
 '''
-This file should borrow code from your Assignment 1.
-However, it will require some modifications for this assignment.
+Mini Mousehunt Game (Incomplete Version)
 
 Author: Bassam Batch
 SID: 310229251
@@ -8,8 +7,8 @@ Unikey: bbat2575
 '''
 
 import random
-import q1
-import q4
+import title
+import training
 import name
 import train
 import shop
@@ -119,7 +118,7 @@ def hunt(gold: int, cheese: list, trap_cheese: str | None, points: int) -> tuple
         counter = 0
 
         while counter < 5:
-            horn_input = q4.sound_horn()
+            horn_input = training.sound_horn()
             if horn_input == "stop hunt":
                 again = "no"
                 break
@@ -172,8 +171,8 @@ def main():
     trap_cheese = None
 
     # Display game title
-    q1.main()
-    username = input("\nWhat's ye name, Hunter?\n")
+    title.main()
+    username = input("What's ye name, Hunter?\n")
     if not name.is_valid_name(username):
         username = "Bob"
     

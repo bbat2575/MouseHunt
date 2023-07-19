@@ -1,6 +1,5 @@
 '''
-Write your solution for the class Trap here.
-This is your answer for Question 8.1.
+The Trap Class
 
 Author: Bassam Batch
 SID: 310229251

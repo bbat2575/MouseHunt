@@ -1,6 +1,5 @@
 '''
-Write your solution for the class CheeseShop here.
-This is your answer for Question 8.3.
+The Cheese Shop
 
 Author: Bassam Batch
 SID: 310229251

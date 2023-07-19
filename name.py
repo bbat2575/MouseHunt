@@ -1,5 +1,5 @@
 '''
-Answer for Question 5. Kids' Friendly.
+Name Checker (Kids' Friendly)
 
 Author: Bassam Batch
 SID: 310229251

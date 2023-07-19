@@ -1,6 +1,5 @@
 '''
-Write your solution to 1. Upgraded Cheese Shop here.
-It should borrow code from Assignment 1.
+The Cheese Shop Functions
 
 Author: Bassam Batch
 SID: 310229251

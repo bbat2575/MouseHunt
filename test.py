@@ -1,5 +1,5 @@
 '''
-Write solutions to 4. New Mouse Release here.
+Testing Mouse Generator in mouse.py
 
 Author: Bassam Batch
 SID: 310229251

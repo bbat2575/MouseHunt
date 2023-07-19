@@ -1,8 +1,6 @@
 '''
-Whenever you need to use mouse art, you can import this module and use the variables
-initialised below this docstring.
+ASCII art by Joan Stark as the logo and Brown mouse coat of arms.
 
-We will use the ASCII art by Joan Stark as the logo and Brown mouse coat of arms:
            ____()()
           /      @@
 jgs `~~~~~\_;m__m._>o

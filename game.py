@@ -8,7 +8,7 @@ Unikey: bbat2575
 
 import random
 import title
-import training
+import train_funcs
 import name
 import train
 import shop
@@ -118,7 +118,7 @@ def hunt(gold: int, cheese: list, trap_cheese: str | None, points: int) -> tuple
         counter = 0
 
         while counter < 5:
-            horn_input = training.sound_horn()
+            horn_input = train_funcs.sound_horn()
             if horn_input == "stop hunt":
                 again = "no"
                 break

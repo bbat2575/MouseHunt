@@ -12,7 +12,7 @@ import time
 from datetime import datetime
 import os
 import name
-import training
+import train_funcs
 import shop
 import train
 import mouse
@@ -112,7 +112,7 @@ def hunt(gold: int, cheese: list, trap_cheese: str | None, points: int, enchant:
         counter = 0
 
         while counter < 5:
-            horn_input = training.sound_horn()
+            horn_input = train_funcs.sound_horn()
             if horn_input == "stop hunt":
                 again = "no"
                 break

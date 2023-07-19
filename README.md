@@ -3,6 +3,10 @@
 
 #### *Run game_final.py to play!*
 
+Note: Before you 'Join the Hunt', you must first:
+1. Buy some cheese (Option 3. The Cheese Shop).
+2. Attach cheese to your trap (Option 4. Change Cheese).
+
 <br>
 
 List of files:

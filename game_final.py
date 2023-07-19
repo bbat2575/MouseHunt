@@ -10,6 +10,7 @@ import setup
 import title
 import time
 from datetime import datetime
+import os
 import name
 import q4
 import shop
@@ -27,7 +28,8 @@ def run_setup():
     timestamp = datetime.fromtimestamp(time.time()).strftime("%d %b %Y %H:%M:%S")
 
     # Run verification and assign output to verify
-    verify = setup.verification("/home/game_master/", timestamp)
+    cwd = os.getcwd() + "\\"
+    verify = setup.verification(cwd, timestamp)
 
     # Check the last line of the verification to see if abnormalities are detected    
     if verify[-1] == "Abnormalities detected...":
@@ -289,7 +291,7 @@ def main():
         trap = train.training()[0]
 
     if trap != "Cardboard and Hook Trap":
-        enchant = True # WHAT IF PLAYERS CHOOSE TRAP IN TRAINING AND EXIT WITHOUT A PRACTICE HUNT>? == TRUE - ASK ON ED IF THIS IS CORRECT
+        enchant = True
         trap = f"One-time Enchanted {trap}"
     
     # Game loop

@@ -1,4 +1,4 @@
-# mousehunt
+# Mousehunt
 ## **Text-based mousehunt game**
 
 #### *Run game_final.py to play!*

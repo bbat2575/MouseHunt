@@ -1,9 +1,5 @@
 '''
 Name Checker (Kids' Friendly)
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 # Checks if name is between 1 and 9 characters long (inclusive)

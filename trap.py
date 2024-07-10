@@ -1,9 +1,5 @@
 '''
 The Trap Class
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 TYPE_OF_TRAP = ("Cardboard and Hook Trap", "High Strain Steel Trap", "Hot Tub Trap")

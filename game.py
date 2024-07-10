@@ -1,9 +1,5 @@
 '''
 Mini Mousehunt Game (Incomplete Version)
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 import random

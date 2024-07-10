@@ -1,10 +1,5 @@
 '''
-The Training Functions
-
-Name: Bassam Batch
-SID: 310229251
-unikey: bbat2575
-
+The Training Functionality
 '''
 
 def intro():

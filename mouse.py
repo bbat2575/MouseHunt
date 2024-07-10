@@ -1,9 +1,5 @@
 '''
 Mouse Generator
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 '''

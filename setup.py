@@ -1,10 +1,6 @@
 '''
 Check Setup - 
 Verify or Install Text Files + Log Process
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 import os

@@ -1,5 +1,5 @@
 '''
-Name Checker (Kids' Friendly)
+Name Checker (Kids' Friendly Feature)
 '''
 
 # Checks if name is between 1 and 9 characters long (inclusive)

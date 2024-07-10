@@ -1,9 +1,5 @@
 '''
-The Cheese Shop Functions
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
+The Cheese Shop Functionality
 '''
 
 CHEESE_MENU = (("Cheddar", 10), ("Marble", 50), ("Swiss", 100))

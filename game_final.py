@@ -1,9 +1,5 @@
 '''
 Mousehunt - The Full Game
-
-Author: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
 '''
 
 import setup

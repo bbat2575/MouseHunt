@@ -31,35 +31,4 @@ python3 game_final.py
 
 * game_final.py - The Full Game
 
-```bash
-Sound the horn to call for the mouse...
-Sound the horn by typing "yes" or type "stop hunt" to exit: yes
-Caught a Grey mouse!
-
-
- _  _
-(o)(o)--. 
- \../ (  ) 
- m\/m--m'`--
-
-
-My gold: 130, My points: 90
-
-Sound the horn to call for the mouse...
-Sound the horn by typing "yes" or type "stop hunt" to exit: yes
-Caught a Field mouse!
-
-
-        (`-()_.-=-.
-       /66  ,  ,  \
-     =(o_/=//_(   /======`
-         ~"` ~"~~`
-
-
-My gold: 330, My points: 290
-
-Sound the horn to call for the mouse...
-Sound the horn by typing "yes" or type "stop hunt" to exit: yes
-Nothing happens.
-My gold: 330, My points: 290
-```
+![alt text](https://github.com/bbat2575/MouseHunt/Mousehunter.png)

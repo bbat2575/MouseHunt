@@ -31,4 +31,4 @@ python3 game_final.py
 
 * game_final.py - The Full Game
 
-![alt text](https://github.com/bbat2575/MouseHunt/Mousehunter.png)
+![alt text](https://github.com/bbat2575/MouseHunt/blob/main/Mousehunter.png)

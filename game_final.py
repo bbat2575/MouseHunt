@@ -23,7 +23,7 @@ def run_setup():
     timestamp = datetime.fromtimestamp(time.time()).strftime("%d %b %Y %H:%M:%S")
 
     # Run verification and assign output to verify
-    cwd = os.getcwd() + "\\"
+    cwd = os.getcwd() + "/"
     verify = setup.verification(cwd, timestamp)
 
     # Check the last line of the verification to see if abnormalities are detected    
@@ -270,6 +270,7 @@ def main():
     
     # Run setup to check validate files
     tamper_flag = run_setup()
+    # tamper_flag = 0
     print(".\n.\n.")
 
     # Title screen

@@ -1,15 +1,19 @@
 # Mouse Hunt
-## **Text-based mouse hunting game**
 
-#### *Run game_final.py to play!*
+A text-based mouse hunting game.
 
-Note: Before you 'Join the Hunt', you must first:
+Note: Before you 'Join the Hunt':
+1. Do the training.
 1. Buy some cheese (Option 3. The Cheese Shop).
-2. Attach cheese to your trap (Option 4. Change Cheese).
+1. Attach cheese to your trap (Option 4. Change Cheese).
 
-<br>
+## How To Run
 
-List of files:
+```bash
+python3 game_final.py
+```
+
+## List of files
 
 * cshop.py - Cheese Shop
 

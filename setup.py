@@ -178,7 +178,7 @@ def installation(master: str, timestamp: str) -> list:
     output.append(f"{timestamp} Copying files.")
 
     i = 0
-    
+        
     while i < len(master_files):
         output.append(f"Locating: {master_files[i].split('/')[-1]}")
 
@@ -214,7 +214,7 @@ def analyse_conf(conf, master):
         # Else if it's a file
         else:
             mk_files.append(current_dir+conf[i][2:].strip('\n').strip())
-            master_files.append(master+current_dir.strip('/home/')+conf[i][1:].strip('\n').strip())
+            master_files.append(current_dir.strip('/home/')+conf[i][1:].strip('\n').strip())
 
         i += 1
     
@@ -224,7 +224,8 @@ def analyse_conf(conf, master):
 def list_files(directory):
     # Get files and folders in directory 
     abs_dir = os.listdir(directory)
-    direct = directory + abs_dir[0] + '/'
+    if abs_dir:
+        direct = directory + abs_dir[0] + '/'
     file_names = []
 
     # Iterate through files and sub-directories to find other files and create list of absolute file paths

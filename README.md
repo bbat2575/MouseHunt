@@ -1,6 +1,6 @@
 # Mouse Hunt
 
-A text-based mouse hunting game.
+### A text-based mouse hunting game.
 
 Before you 'Join the Hunt':
 1. Do the training.

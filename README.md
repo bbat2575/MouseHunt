@@ -2,7 +2,7 @@
 
 A text-based mouse hunting game.
 
-Note: Before you 'Join the Hunt':
+Before you 'Join the Hunt':
 1. Do the training.
 1. Buy some cheese (Option 3. The Cheese Shop).
 1. Attach cheese to your trap (Option 4. Change Cheese).
@@ -12,6 +12,8 @@ Note: Before you 'Join the Hunt':
 ```bash
 python3 game_final.py
 ```
+
+![alt text](https://github.com/bbat2575/MouseHunt/blob/main/Mousehunter.png)
 
 ## List of files
 
@@ -30,5 +32,3 @@ python3 game_final.py
 * setup.py - Check Setup Files (see logs)
 
 * game_final.py - The Full Game
-
-![alt text](https://github.com/bbat2575/MouseHunt/blob/main/Mousehunter.png)

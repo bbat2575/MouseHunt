@@ -13,7 +13,9 @@ Before you 'Join the Hunt':
 python3 game_final.py
 ```
 
-![alt text](https://github.com/bbat2575/MouseHunt/blob/main/Mousehunter.png)
+<p align="center">
+    <img src="https://github.com/bbat2575/MouseHunt/blob/main/Mousehunter.png"/>
+</p>
 
 ## List of files
 
